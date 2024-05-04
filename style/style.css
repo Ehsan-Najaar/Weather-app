@@ -68,8 +68,7 @@ body {
 
 .col .icon {
   width: 40px;
-  height: 40px;
-  font-size: 40px;
+  margin-right: 10px;
 }
 
 .humidity,
