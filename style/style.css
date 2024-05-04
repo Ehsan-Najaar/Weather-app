@@ -68,7 +68,7 @@ body {
 .col img {
   width: 40px;
   margin-right: 10px;
-  color: #fff;
+  filter: grayscale(100%);
 }
 
 .humidity,
